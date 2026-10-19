@@ -1,0 +1,245 @@
+item_name,material,food_or_liquid_soiled,broken_or_damaged,waste_category
+newspaper,paper,no,no,Recyclable
+newspaper,paper,no,yes,Recyclable
+newspaper,paper,yes,no,General waste (check local rules)
+newspaper,paper,yes,yes,General waste (check local rules)
+cardboard,paper,no,no,Recyclable
+cardboard,paper,no,yes,Recyclable
+cardboard,paper,yes,no,General waste (check local rules)
+cardboard,paper,yes,yes,General waste (check local rules)
+notebook page,paper,no,no,Recyclable
+notebook page,paper,no,yes,Recyclable
+notebook page,paper,yes,no,General waste (check local rules)
+notebook page,paper,yes,yes,General waste (check local rules)
+paper bag,paper,no,no,Recyclable
+paper bag,paper,no,yes,Recyclable
+paper bag,paper,yes,no,General waste (check local rules)
+paper bag,paper,yes,yes,General waste (check local rules)
+water bottle,plastic,no,no,Recyclable
+water bottle,plastic,no,yes,Recyclable
+water bottle,plastic,yes,no,General waste (check local rules)
+water bottle,plastic,yes,yes,General waste (check local rules)
+food container,plastic,no,no,Recyclable
+food container,plastic,no,yes,Recyclable
+food container,plastic,yes,no,General waste (check local rules)
+food container,plastic,yes,yes,General waste (check local rules)
+plastic wrapper,plastic,no,no,Recyclable
+plastic wrapper,plastic,no,yes,Recyclable
+plastic wrapper,plastic,yes,no,General waste (check local rules)
+plastic wrapper,plastic,yes,yes,General waste (check local rules)
+detergent bottle,plastic,no,no,Recyclable
+detergent bottle,plastic,no,yes,Recyclable
+detergent bottle,plastic,yes,no,General waste (check local rules)
+detergent bottle,plastic,yes,yes,General waste (check local rules)
+glass jar,glass,no,no,Recyclable
+glass jar,glass,no,yes,General waste (check local rules)
+glass jar,glass,yes,no,General waste (check local rules)
+glass jar,glass,yes,yes,General waste (check local rules)
+beverage bottle,glass,no,no,Recyclable
+beverage bottle,glass,no,yes,General waste (check local rules)
+beverage bottle,glass,yes,no,General waste (check local rules)
+beverage bottle,glass,yes,yes,General waste (check local rules)
+broken glass,glass,no,no,Recyclable
+broken glass,glass,no,yes,General waste (check local rules)
+broken glass,glass,yes,no,General waste (check local rules)
+broken glass,glass,yes,yes,General waste (check local rules)
+glass container,glass,no,no,Recyclable
+glass container,glass,no,yes,General waste (check local rules)
+glass container,glass,yes,no,General waste (check local rules)
+glass container,glass,yes,yes,General waste (check local rules)
+aluminium can,metal,no,no,Recyclable
+aluminium can,metal,no,yes,Recyclable
+aluminium can,metal,yes,no,General waste (check local rules)
+aluminium can,metal,yes,yes,General waste (check local rules)
+steel tin,metal,no,no,Recyclable
+steel tin,metal,no,yes,Recyclable
+steel tin,metal,yes,no,General waste (check local rules)
+steel tin,metal,yes,yes,General waste (check local rules)
+metal lid,metal,no,no,Recyclable
+metal lid,metal,no,yes,Recyclable
+metal lid,metal,yes,no,General waste (check local rules)
+metal lid,metal,yes,yes,General waste (check local rules)
+foil tray,metal,no,no,Recyclable
+foil tray,metal,no,yes,Recyclable
+foil tray,metal,yes,no,General waste (check local rules)
+foil tray,metal,yes,yes,General waste (check local rules)
+banana peel,food,no,no,Biodegradable
+banana peel,food,no,yes,Biodegradable
+banana peel,food,yes,no,Biodegradable
+banana peel,food,yes,yes,Biodegradable
+vegetable scraps,food,no,no,Biodegradable
+vegetable scraps,food,no,yes,Biodegradable
+vegetable scraps,food,yes,no,Biodegradable
+vegetable scraps,food,yes,yes,Biodegradable
+leftover rice,food,no,no,Biodegradable
+leftover rice,food,no,yes,Biodegradable
+leftover rice,food,yes,no,Biodegradable
+leftover rice,food,yes,yes,Biodegradable
+eggshell,food,no,no,Biodegradable
+eggshell,food,no,yes,Biodegradable
+eggshell,food,yes,no,Biodegradable
+eggshell,food,yes,yes,Biodegradable
+mobile phone,electronic,no,no,E-waste
+mobile phone,electronic,no,yes,E-waste
+mobile phone,electronic,yes,no,E-waste
+mobile phone,electronic,yes,yes,E-waste
+charger,electronic,no,no,E-waste
+charger,electronic,no,yes,E-waste
+charger,electronic,yes,no,E-waste
+charger,electronic,yes,yes,E-waste
+battery,electronic,no,no,E-waste
+battery,electronic,no,yes,E-waste
+battery,electronic,yes,no,E-waste
+battery,electronic,yes,yes,E-waste
+keyboard,electronic,no,no,E-waste
+keyboard,electronic,no,yes,E-waste
+keyboard,electronic,yes,no,E-waste
+keyboard,electronic,yes,yes,E-waste
+old shirt,textile,no,no,Reusable/ textile collection
+old shirt,textile,no,yes,Reusable/ textile collection
+old shirt,textile,yes,no,Reusable/ textile collection
+old shirt,textile,yes,yes,Reusable/ textile collection
+cotton cloth,textile,no,no,Reusable/ textile collection
+cotton cloth,textile,no,yes,Reusable/ textile collection
+cotton cloth,textile,yes,no,Reusable/ textile collection
+cotton cloth,textile,yes,yes,Reusable/ textile collection
+worn towel,textile,no,no,Reusable/ textile collection
+worn towel,textile,no,yes,Reusable/ textile collection
+worn towel,textile,yes,no,Reusable/ textile collection
+worn towel,textile,yes,yes,Reusable/ textile collection
+fabric scraps,textile,no,no,Reusable/ textile collection
+fabric scraps,textile,no,yes,Reusable/ textile collection
+fabric scraps,textile,yes,no,Reusable/ textile collection
+fabric scraps,textile,yes,yes,Reusable/ textile collection
+envelope,paper,no,no,Recyclable
+envelope,paper,no,yes,Recyclable
+envelope,paper,yes,no,General waste (check local rules)
+envelope,paper,yes,yes,General waste (check local rules)
+magazine,paper,no,no,Recyclable
+magazine,paper,no,yes,Recyclable
+magazine,paper,yes,no,General waste (check local rules)
+magazine,paper,yes,yes,General waste (check local rules)
+office paper,paper,no,no,Recyclable
+office paper,paper,no,yes,Recyclable
+office paper,paper,yes,no,General waste (check local rules)
+office paper,paper,yes,yes,General waste (check local rules)
+egg carton,paper,no,no,Recyclable
+egg carton,paper,no,yes,Recyclable
+egg carton,paper,yes,no,General waste (check local rules)
+egg carton,paper,yes,yes,General waste (check local rules)
+paper carton,paper,no,no,Recyclable
+paper carton,paper,no,yes,Recyclable
+paper carton,paper,yes,no,General waste (check local rules)
+paper carton,paper,yes,yes,General waste (check local rules)
+yogurt tub,plastic,no,no,Recyclable
+yogurt tub,plastic,no,yes,Recyclable
+yogurt tub,plastic,yes,no,General waste (check local rules)
+yogurt tub,plastic,yes,yes,General waste (check local rules)
+plastic lid,plastic,no,no,Recyclable
+plastic lid,plastic,no,yes,Recyclable
+plastic lid,plastic,yes,no,General waste (check local rules)
+plastic lid,plastic,yes,yes,General waste (check local rules)
+shampoo bottle,plastic,no,no,Recyclable
+shampoo bottle,plastic,no,yes,Recyclable
+shampoo bottle,plastic,yes,no,General waste (check local rules)
+shampoo bottle,plastic,yes,yes,General waste (check local rules)
+plastic toy,plastic,no,no,Recyclable
+plastic toy,plastic,no,yes,Recyclable
+plastic toy,plastic,yes,no,General waste (check local rules)
+plastic toy,plastic,yes,yes,General waste (check local rules)
+plastic bag,plastic,no,no,Recyclable
+plastic bag,plastic,no,yes,Recyclable
+plastic bag,plastic,yes,no,General waste (check local rules)
+plastic bag,plastic,yes,yes,General waste (check local rules)
+glass bottle,glass,no,no,Recyclable
+glass bottle,glass,no,yes,Recyclable
+glass bottle,glass,yes,no,General waste (check local rules)
+glass bottle,glass,yes,yes,General waste (check local rules)
+glass food jar,glass,no,no,Recyclable
+glass food jar,glass,no,yes,Recyclable
+glass food jar,glass,yes,no,General waste (check local rules)
+glass food jar,glass,yes,yes,General waste (check local rules)
+aluminium can,metal,no,no,Recyclable
+aluminium can,metal,no,yes,Recyclable
+aluminium can,metal,yes,no,General waste (check local rules)
+aluminium can,metal,yes,yes,General waste (check local rules)
+steel tin,metal,no,no,Recyclable
+steel tin,metal,no,yes,Recyclable
+steel tin,metal,yes,no,General waste (check local rules)
+steel tin,metal,yes,yes,General waste (check local rules)
+metal lid,metal,no,no,Recyclable
+metal lid,metal,no,yes,Recyclable
+metal lid,metal,yes,no,General waste (check local rules)
+metal lid,metal,yes,yes,General waste (check local rules)
+scrap metal,metal,no,no,Recyclable
+scrap metal,metal,no,yes,Recyclable
+scrap metal,metal,yes,no,General waste (check local rules)
+scrap metal,metal,yes,yes,General waste (check local rules)
+vegetable peels,food,no,no,Biodegradable
+vegetable peels,food,no,yes,Biodegradable
+vegetable peels,food,yes,no,Biodegradable
+vegetable peels,food,yes,yes,Biodegradable
+fruit scraps,food,no,no,Biodegradable
+fruit scraps,food,no,yes,Biodegradable
+fruit scraps,food,yes,no,Biodegradable
+fruit scraps,food,yes,yes,Biodegradable
+tea leaves,food,no,no,Biodegradable
+tea leaves,food,no,yes,Biodegradable
+tea leaves,food,yes,no,Biodegradable
+tea leaves,food,yes,yes,Biodegradable
+coffee grounds,food,no,no,Biodegradable
+coffee grounds,food,no,yes,Biodegradable
+coffee grounds,food,yes,no,Biodegradable
+coffee grounds,food,yes,yes,Biodegradable
+eggshells,food,no,no,Biodegradable
+eggshells,food,no,yes,Biodegradable
+eggshells,food,yes,no,Biodegradable
+eggshells,food,yes,yes,Biodegradable
+mobile phone,electronic,no,no,E-waste
+mobile phone,electronic,no,yes,E-waste
+mobile phone,electronic,yes,no,E-waste
+mobile phone,electronic,yes,yes,E-waste
+charger,electronic,no,no,E-waste
+charger,electronic,no,yes,E-waste
+charger,electronic,yes,no,E-waste
+charger,electronic,yes,yes,E-waste
+USB cable,electronic,no,no,E-waste
+USB cable,electronic,no,yes,E-waste
+USB cable,electronic,yes,no,E-waste
+USB cable,electronic,yes,yes,E-waste
+keyboard,electronic,no,no,E-waste
+keyboard,electronic,no,yes,E-waste
+keyboard,electronic,yes,no,E-waste
+keyboard,electronic,yes,yes,E-waste
+mouse,electronic,no,no,E-waste
+mouse,electronic,no,yes,E-waste
+mouse,electronic,yes,no,E-waste
+mouse,electronic,yes,yes,E-waste
+earphones,electronic,no,no,E-waste
+earphones,electronic,no,yes,E-waste
+earphones,electronic,yes,no,E-waste
+earphones,electronic,yes,yes,E-waste
+battery,electronic,no,no,E-waste
+battery,electronic,no,yes,E-waste
+battery,electronic,yes,no,E-waste
+battery,electronic,yes,yes,E-waste
+old T-shirt,textile,no,no,Reusable/ textile collection
+old T-shirt,textile,no,yes,Reusable/ textile collection
+old T-shirt,textile,yes,no,Reusable/ textile collection
+old T-shirt,textile,yes,yes,Reusable/ textile collection
+jeans,textile,no,no,Reusable/ textile collection
+jeans,textile,no,yes,Reusable/ textile collection
+jeans,textile,yes,no,Reusable/ textile collection
+jeans,textile,yes,yes,Reusable/ textile collection
+towel,textile,no,no,Reusable/ textile collection
+towel,textile,no,yes,Reusable/ textile collection
+towel,textile,yes,no,Reusable/ textile collection
+towel,textile,yes,yes,Reusable/ textile collection
+bedsheet,textile,no,no,Reusable/ textile collection
+bedsheet,textile,no,yes,Reusable/ textile collection
+bedsheet,textile,yes,no,Reusable/ textile collection
+bedsheet,textile,yes,yes,Reusable/ textile collection
+fabric scraps,textile,no,no,Reusable/ textile collection
+fabric scraps,textile,no,yes,Reusable/ textile collection
+fabric scraps,textile,yes,no,Reusable/ textile collection
+fabric scraps,textile,yes,yes,Reusable/ textile collection
